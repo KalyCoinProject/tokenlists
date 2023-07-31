@@ -1,0 +1,53 @@
+{
+  "name": "KalySwap Tokenlist",
+  "logoURI": "https://raw.githubusercontent.com/kalycoinproject/tokens/main/assets/3888/0x9C6cEF364844530d8E77032797E317154Fe88f7E/logo_48.png",
+  "keywords": [],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2023-07-31T12:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 3888,
+      "address": "0x74D0BC02C633d207C35c6a1D8fda6E7104EC47Db",
+      "decimals": 18,
+      "name": "Binance",
+      "symbol": "BNB",
+      "logoURI": "https://raw.githubusercontent.com/kalycoinproject/tokens/main/assets/3888/0x74D0BC02C633d207C35c6a1D8fda6E7104EC47Db/logo_24.png"
+    },
+    {
+      "chainId": 3888,
+      "address": "0x57A8e257AC667A02f1959bdfF111e29a667EF74A",
+      "decimals": 18,
+      "name": "Tether USD",
+      "symbol": "USDt",
+      "logoURI": "https://raw.githubusercontent.com/kalycoinproject/tokens/main/assets/3888/0x57A8e257AC667A02f1959bdfF111e29a667EF74A/logo_24.png"
+    },
+    {
+      "chainId": 3888,
+      "address": "0x70d50a152b335A20236E0faf7579b58F186B639f",
+      "decimals": 18,
+      "name": "Wrapped BTC",
+      "symbol": "BTCB",
+      "logoURI": "https://raw.githubusercontent.com/kalycoinproject/tokens/main/assets/3888/0x70d50a152b335A20236E0faf7579b58F186B639f/logo_24.png"
+    },
+    {
+      "chainId": 3888,
+      "address": "0x89aE5C335372bF4d06ece4cEE1e92D04c3fdf1e0",
+      "decimals": 18,
+      "name": "Ether Token",
+      "symbol": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/kalycoinproject/tokens/main/assets/3888/0x89aE5C335372bF4d06ece4cEE1e92D04c3fdf1e0/logo_24.png"
+    },
+    {
+      "chainId": 3888,
+      "address": "0x74685449581BA264B09d01109142b4ad44c687ed",
+      "decimals": 18,
+      "name": "Matic Token",
+      "symbol": "MATIC",
+      "logoURI": "https://raw.githubusercontent.com/kalycoinproject/tokens/main/assets/3888/0x74685449581BA264B09d01109142b4ad44c687ed/logo_24.png"
+    }
+  ]
+}
