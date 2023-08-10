@@ -11,6 +11,22 @@
   "tokens": [
     {
       "chainId": 3888,
+      "address": "0x069255299Bb729399f3CECaBdc73d15d3D10a2A3",
+      "decimals": 18,
+      "name": "Wrapped KalyCoin",
+      "symbol": "wKLC",
+      "logoURI": "https://raw.githubusercontent.com/kalycoinproject/tokens/main/assets/3888/0x069255299Bb729399f3CECaBdc73d15d3D10a2A3/logo_24.png"
+    },
+    {
+      "chainId": 3888,
+      "address": "0x9C6cEF364844530d8E77032797E317154Fe88f7E",
+      "decimals": 18,
+      "name": "KalySwap Token",
+      "symbol": "KSWAP",
+      "logoURI": "https://raw.githubusercontent.com/kalycoinproject/tokens/main/assets/3888/0x9C6cEF364844530d8E77032797E317154Fe88f7E/logo_24.png"
+    },    
+	{
+      "chainId": 3888,
       "address": "0x2F4fB121ad39B71A4516aaa88a5C7ea926f5350f",
       "decimals": 18,
       "name": "Binance",
