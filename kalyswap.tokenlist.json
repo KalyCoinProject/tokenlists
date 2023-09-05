@@ -1,6 +1,6 @@
 {
   "name": "KalySwap Tokenlist",
-  "logoURI": "https://raw.githubusercontent.com/kalycoinproject/tokens/main/assets/3888/0x9C6cEF364844530d8E77032797E317154Fe88f7E/logo_48.png",
+  "logoURI": "https://raw.githubusercontent.com/kalycoinproject/tokens/main/assets/3888/0xCC93b84cEed74Dc28c746b7697d6fA477ffFf65a/logo_48.png",
   "keywords": [],
   "version": {
     "major": 1,
@@ -19,11 +19,11 @@
     },
     {
       "chainId": 3888,
-      "address": "0x9C6cEF364844530d8E77032797E317154Fe88f7E",
+      "address": "0xCC93b84cEed74Dc28c746b7697d6fA477ffFf65a",
       "decimals": 18,
       "name": "KalySwap Token",
       "symbol": "KSWAP",
-      "logoURI": "https://raw.githubusercontent.com/kalycoinproject/tokens/main/assets/3888/0x9C6cEF364844530d8E77032797E317154Fe88f7E/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/kalycoinproject/tokens/main/assets/3888/0xCC93b84cEed74Dc28c746b7697d6fA477ffFf65a/logo_24.png"
     },    
 	{
       "chainId": 3888,
