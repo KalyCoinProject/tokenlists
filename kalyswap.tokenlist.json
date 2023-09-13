@@ -64,6 +64,22 @@
       "name": "Matic Token",
       "symbol": "MATIC",
       "logoURI": "https://raw.githubusercontent.com/kalycoinproject/tokens/main/assets/3888/0x343bE88Bb1Aa79Ba451760ffc2b1f3BB85da521A/logo_24.png"
+    },
+	{
+      "chainId": 3888,
+      "address": "0xFF97974fcEfD3C6E04C7a6f3C4FA971c4A18F762",
+      "decimals": 18,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/kalycoinproject/tokens/main/assets/3888/0xFF97974fcEfD3C6E04C7a6f3C4FA971c4A18F762/logo_24.png"
+    },
+	{
+      "chainId": 3888,
+      "address": "0xC2AFb6EFca0F6b10f3da80bEc20Dc8DE0DdB689D",
+      "decimals": 18,
+      "name": "DAI Token",
+      "symbol": "DAI",
+      "logoURI": "https://raw.githubusercontent.com/kalycoinproject/tokens/main/assets/3888/0xC2AFb6EFca0F6b10f3da80bEc20Dc8DE0DdB689D/logo_24.png"
     }
   ]
 }
