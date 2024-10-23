@@ -5,9 +5,9 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
-  "timestamp": "2024-10-23T13:00:00+00:00",
+  "timestamp": "2024-10-23T14:00:00+00:00",
   "tokens": [
     {
       "chainId": 3888,
@@ -36,7 +36,7 @@
     {
       "chainId": 3888,
       "address": "0x2CA775C77B922A51FcF3097F52bFFdbc0250D99A",
-      "decimals": 18,
+      "decimals": 6,
       "name": "Tether USD",
       "symbol": "USDt",
       "logoURI": "https://raw.githubusercontent.com/kalycoinproject/tokens/main/assets/3888/0x2CA775C77B922A51FcF3097F52bFFdbc0250D99A/logo_24.png"
@@ -44,7 +44,7 @@
     {
       "chainId": 3888,
       "address": "0xaA77D4a26d432B82DB07F8a47B7f7F623fd92455",
-      "decimals": 18,
+      "decimals": 8,
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "logoURI": "https://raw.githubusercontent.com/kalycoinproject/tokens/main/assets/3888/0xaA77D4a26d432B82DB07F8a47B7f7F623fd92455/logo_24.png"
@@ -68,7 +68,7 @@
 	{
       "chainId": 3888,
       "address": "0x9cAb0c396cF0F4325913f2269a0b72BD4d46E3A9",
-      "decimals": 18,
+      "decimals": 6,
       "name": "USD Coin",
       "symbol": "USDC",
       "logoURI": "https://raw.githubusercontent.com/kalycoinproject/tokens/main/assets/3888/0x9cAb0c396cF0F4325913f2269a0b72BD4d46E3A9/logo_24.png"
