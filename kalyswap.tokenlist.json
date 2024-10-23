@@ -5,9 +5,9 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
-  "timestamp": "2024-10-22T12:00:00+00:00",
+  "timestamp": "2024-10-23T13:00:00+00:00",
   "tokens": [
     {
       "chainId": 3888,
@@ -46,7 +46,7 @@
       "address": "0xaA77D4a26d432B82DB07F8a47B7f7F623fd92455",
       "decimals": 18,
       "name": "Wrapped BTC",
-      "symbol": "BTCB",
+      "symbol": "WBTC",
       "logoURI": "https://raw.githubusercontent.com/kalycoinproject/tokens/main/assets/3888/0xaA77D4a26d432B82DB07F8a47B7f7F623fd92455/logo_24.png"
     },
     {
