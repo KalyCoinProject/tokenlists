@@ -3,11 +3,11 @@
   "logoURI": "https://raw.githubusercontent.com/kalycoinproject/tokens/main/assets/3888/0xCC93b84cEed74Dc28c746b7697d6fA477ffFf65a/logo_48.png",
   "keywords": [],
   "version": {
-    "major": 1,
-    "minor": 1,
+    "major": 2,
+    "minor": 0,
     "patch": 0
   },
-  "timestamp": "2023-09-13T12:00:00+00:00",
+  "timestamp": "2024-10-22T12:00:00+00:00",
   "tokens": [
     {
       "chainId": 3888,
@@ -27,59 +27,59 @@
     },    
 	{
       "chainId": 3888,
-      "address": "0x2F4fB121ad39B71A4516aaa88a5C7ea926f5350f",
+      "address": "0x0e2318b62a096AC68ad2D7F37592CBf0cA9c4Ddb",
       "decimals": 18,
       "name": "Binance",
       "symbol": "BNB",
-      "logoURI": "https://raw.githubusercontent.com/kalycoinproject/tokens/main/assets/3888/0x2F4fB121ad39B71A4516aaa88a5C7ea926f5350f/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/kalycoinproject/tokens/main/assets/3888/0x0e2318b62a096AC68ad2D7F37592CBf0cA9c4Ddb/logo_24.png"
     },
     {
       "chainId": 3888,
-      "address": "0x37540F0cC489088c01631138Da2E32cF406B83B8",
+      "address": "0x2CA775C77B922A51FcF3097F52bFFdbc0250D99A",
       "decimals": 18,
       "name": "Tether USD",
       "symbol": "USDt",
-      "logoURI": "https://raw.githubusercontent.com/kalycoinproject/tokens/main/assets/3888/0x37540F0cC489088c01631138Da2E32cF406B83B8/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/kalycoinproject/tokens/main/assets/3888/0x2CA775C77B922A51FcF3097F52bFFdbc0250D99A/logo_24.png"
     },
     {
       "chainId": 3888,
-      "address": "0xD0731970CCFEc3EB25c16e956F0b6902Fba75B69",
+      "address": "0xaA77D4a26d432B82DB07F8a47B7f7F623fd92455",
       "decimals": 18,
       "name": "Wrapped BTC",
       "symbol": "BTCB",
-      "logoURI": "https://raw.githubusercontent.com/kalycoinproject/tokens/main/assets/3888/0xD0731970CCFEc3EB25c16e956F0b6902Fba75B69/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/kalycoinproject/tokens/main/assets/3888/0xaA77D4a26d432B82DB07F8a47B7f7F623fd92455/logo_24.png"
     },
     {
       "chainId": 3888,
-      "address": "0xad89EA57DB2092b66641E732F51ADf483Ac18C21",
+      "address": "0xfdbB253753dDE60b11211B169dC872AaE672879b",
       "decimals": 18,
       "name": "Ether Token",
       "symbol": "ETH",
-      "logoURI": "https://raw.githubusercontent.com/kalycoinproject/tokens/main/assets/3888/0xad89EA57DB2092b66641E732F51ADf483Ac18C21/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/kalycoinproject/tokens/main/assets/3888/0xfdbB253753dDE60b11211B169dC872AaE672879b/logo_24.png"
     },
     {
       "chainId": 3888,
-      "address": "0x343bE88Bb1Aa79Ba451760ffc2b1f3BB85da521A",
+      "address": "0x706C9a63d7c8b7Aaf85DDCca52654645f470E8Ac",
       "decimals": 18,
-      "name": "Matic Token",
-      "symbol": "MATIC",
-      "logoURI": "https://raw.githubusercontent.com/kalycoinproject/tokens/main/assets/3888/0x343bE88Bb1Aa79Ba451760ffc2b1f3BB85da521A/logo_24.png"
+      "name": "Polygon Token",
+      "symbol": "POL",
+      "logoURI": "https://raw.githubusercontent.com/kalycoinproject/tokens/main/assets/3888/0x706C9a63d7c8b7Aaf85DDCca52654645f470E8Ac/logo_24.png"
     },
 	{
       "chainId": 3888,
-      "address": "0xFF97974fcEfD3C6E04C7a6f3C4FA971c4A18F762",
+      "address": "0x9cAb0c396cF0F4325913f2269a0b72BD4d46E3A9",
       "decimals": 18,
       "name": "USD Coin",
       "symbol": "USDC",
-      "logoURI": "https://raw.githubusercontent.com/kalycoinproject/tokens/main/assets/3888/0xFF97974fcEfD3C6E04C7a6f3C4FA971c4A18F762/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/kalycoinproject/tokens/main/assets/3888/0x9cAb0c396cF0F4325913f2269a0b72BD4d46E3A9/logo_24.png"
     },
 	{
       "chainId": 3888,
-      "address": "0xC2AFb6EFca0F6b10f3da80bEc20Dc8DE0DdB689D",
+      "address": "0x6E92CAC380F7A7B86f4163fad0df2F277B16Edc6",
       "decimals": 18,
       "name": "DAI Token",
       "symbol": "DAI",
-      "logoURI": "https://raw.githubusercontent.com/kalycoinproject/tokens/main/assets/3888/0xC2AFb6EFca0F6b10f3da80bEc20Dc8DE0DdB689D/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/kalycoinproject/tokens/main/assets/3888/0x6E92CAC380F7A7B86f4163fad0df2F277B16Edc6/logo_24.png"
     }
   ]
 }
